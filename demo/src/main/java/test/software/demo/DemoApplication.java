@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public String main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		return "Please Work!!";
+		return "Please Work!!!!";
 	}
 
 }
